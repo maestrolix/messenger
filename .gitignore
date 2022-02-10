@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+messenger/db.sqlite3
+messenger/static
+messnger/venv
+messnger/.idea/
+venv
+.idea/
+parent_libs.txt
